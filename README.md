@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OctoBurr
+- 👀 I’m interested in dying
+- 🌱 I’m currently learning c#
+- 📫 How to reach me ... discord "octoburr_"
